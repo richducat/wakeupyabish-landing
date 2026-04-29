@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="1920" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11051f"/>
+      <stop offset="0.58" stop-color="#1b0e34"/>
+      <stop offset="1" stop-color="#050912"/>
+    </linearGradient>
+    <linearGradient id="pinkGlow" x1="0" y1="0" x2="1080" y2="1920" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fe00fe" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00f3ff" stop-opacity="0.85"/>
+    </linearGradient>
+    <filter id="softBlur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="3" fill="rgba(255,255,255,0.04)"/>
+    </pattern>
+  </defs>
+
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <circle cx="890" cy="180" r="220" fill="#fe00fe" opacity="0.18" filter="url(#softBlur)"/>
+  <circle cx="170" cy="1700" r="260" fill="#00f3ff" opacity="0.14" filter="url(#softBlur)"/>
+  <rect width="1080" height="1920" fill="url(#scanlines)" opacity="0.26"/>
+
+  <g opacity="0.26">
+    <path d="M0 1382.3999999999999 H1080" stroke="#00f3ff" stroke-width="2"/>
+    <path d="M0 1462.3999999999999 H1080" stroke="#00f3ff" stroke-width="1.5"/>
+    <path d="M0 1542.3999999999999 H1080" stroke="#00f3ff" stroke-width="1.2"/>
+    <path d="M0 1622.3999999999999 H1080" stroke="#00f3ff" stroke-width="1"/>
+    <path d="M140 1352.3999999999999 V1920" stroke="#00f3ff" stroke-width="1.2"/>
+    <path d="M300 1322.3999999999999 V1920" stroke="#00f3ff" stroke-width="1"/>
+    <path d="M520 1292.3999999999999 V1920" stroke="#00f3ff" stroke-width="1"/>
+    <path d="M760 1322.3999999999999 V1920" stroke="#00f3ff" stroke-width="1"/>
+    <path d="M940 1362.3999999999999 V1920" stroke="#00f3ff" stroke-width="1.2"/>
+  </g>
+
+  <rect x="72" y="72" width="936" height="1776" rx="28" stroke="url(#pinkGlow)" stroke-width="4"/>
+  <rect x="92" y="92" width="240" height="48" rx="12" fill="#00f3ff" opacity="0.14"/>
+  <text x="112" y="124" fill="#9efcff" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="5">MORNING CONSEQUENCES</text>
+
+  <text x="112" y="188" fill="#ebfaff" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="4">WAKE UP YA BISH</text>
+  <text fill="#ffffff" font-size="108" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900" letter-spacing="-3">
+    <tspan x="112" y="680">I&apos;m Up Means</tspan><tspan x="112" y="802">I&apos;m</tspan><tspan x="112" y="924">Horizontal</tspan>
+  </text>
+
+  <text fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="-1">
+    <tspan x="112" y="1126">Cut to the alarm sound</tspan><tspan x="112" y="1190">preview and react like</tspan><tspan x="112" y="1254">this is absolutely too</tspan><tspan x="112" y="1318">much.</tspan>
+  </text>
+
+  <rect x="112" y="1718" width="856" height="92" rx="18" fill="#fe00fe" opacity="0.16"/>
+  <text x="144" y="1770" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Wake Up Ya Bish</text>
+
+  <rect x="890" y="1730" width="72" height="72" fill="#00f3ff"/>
+  <rect x="962" y="1802" width="72" height="72" fill="#fe00fe"/>
+</svg>

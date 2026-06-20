@@ -44,11 +44,9 @@
   <text x="112" y="802" fill="#ffffff" font-size="108" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Incident</text>
   <text x="112" y="924" fill="#ffffff" font-size="108" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Report</text>
 
-  <text x="112" y="1126" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">Flash the next-event</text>
-  <text x="112" y="1190" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">view and say the app</text>
-  <text x="112" y="1254" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">keeps receipts on your</text>
-  <text x="112" y="1318" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">day. Flash the</text>
-  <text x="112" y="1382" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">next-event...</text>
+  <text x="112" y="1126" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">Default alarm excuses</text>
+  <text x="112" y="1190" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">denied. Daily alarms</text>
+  <text x="112" y="1254" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">armed.</text>
 
   <rect x="112" y="1718" width="856" height="92" rx="18" fill="#fe00fe" opacity="0.16"/>
   <text x="144" y="1770" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Wake Up Ya Bish</text>

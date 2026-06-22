@@ -37,20 +37,18 @@
 
   <rect x="72" y="72" width="936" height="1206" rx="28" stroke="url(#pinkGlow)" stroke-width="4"/>
   <rect x="92" y="92" width="240" height="48" rx="12" fill="#00f3ff" opacity="0.14"/>
-  <text x="112" y="124" fill="#9efcff" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="5">SNOOZE INTERVENTION</text>
+  <text x="112" y="124" fill="#9efcff" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="5">CHECKPOINT ARMED</text>
 
   <text x="112" y="188" fill="#ebfaff" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="4">WAKE UP YA BISH</text>
   <text x="112" y="520" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Monday</text>
   <text x="112" y="632" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Checkpoint</text>
   <text x="112" y="744" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Override</text>
 
-  <text x="112" y="936" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">Wake Up Ya Bish shows up</text>
-  <text x="112" y="994" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">with retro cockpit visuals,</text>
-  <text x="112" y="1052" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">loud motivation, and zero</text>
-  <text x="112" y="1110" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">interest in baby...</text>
+  <text x="112" y="936" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">Alarm done? Prove you moved.</text>
+  <text x="112" y="994" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">Habit checkpoint is waiting.</text>
 
   <rect x="112" y="1148" width="856" height="92" rx="18" fill="#fe00fe" opacity="0.16"/>
-  <text x="144" y="1200" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Download Wake Up Ya Bish and make Mon...</text>
+  <text x="144" y="1200" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Download. Wake. Verify.</text>
 
   <rect x="890" y="1160" width="72" height="72" fill="#00f3ff"/>
   <rect x="962" y="1232" width="72" height="72" fill="#fe00fe"/>

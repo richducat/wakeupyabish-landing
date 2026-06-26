@@ -44,10 +44,9 @@
   <text x="112" y="802" fill="#ffffff" font-size="108" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Checkpoint</text>
   <text x="112" y="924" fill="#ffffff" font-size="108" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Override</text>
 
-  <text x="112" y="1126" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">Show a real half-awake</text>
-  <text x="112" y="1190" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">human reaching for the</text>
-  <text x="112" y="1254" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">phone like the evidence</text>
-  <text x="112" y="1318" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">is already bad. Open...</text>
+  <text x="112" y="1126" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">Alarm done. Checkpoint</text>
+  <text x="112" y="1190" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">armed. Blanket arguments</text>
+  <text x="112" y="1254" fill="#d7c7f9" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="600">denied.</text>
 
   <rect x="112" y="1718" width="856" height="92" rx="18" fill="#fe00fe" opacity="0.16"/>
   <text x="144" y="1770" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Wake Up Ya Bish</text>

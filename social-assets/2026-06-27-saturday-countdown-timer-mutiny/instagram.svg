@@ -41,16 +41,13 @@
 
   <text x="112" y="188" fill="#ebfaff" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="4">WAKE UP YA BISH</text>
   <text x="112" y="520" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Saturday</text>
-  <text x="112" y="632" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Countdown</text>
-  <text x="112" y="744" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Timer Mutiny</text>
+  <text x="112" y="632" fill="#ffffff" font-size="96" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Timer Mutiny</text>
 
-  <text x="112" y="936" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">The app gives your morning a</text>
-  <text x="112" y="994" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">cockpit, a countdown, and a</text>
-  <text x="112" y="1052" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">paper trail. The blanket can</text>
-  <text x="112" y="1110" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">file a co...</text>
+  <text x="112" y="824" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">Alarm first. Timer next.</text>
+  <text x="112" y="882" fill="#d7c7f9" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="600">Blanket appeal denied.</text>
 
   <rect x="112" y="1148" width="856" height="92" rx="18" fill="#fe00fe" opacity="0.16"/>
-  <text x="144" y="1200" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Download Wake Up Ya Bish and give Sat...</text>
+  <text x="144" y="1200" fill="#ffb8f7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Download. Set timer. Move.</text>
 
   <rect x="890" y="1160" width="72" height="72" fill="#00f3ff"/>
   <rect x="962" y="1232" width="72" height="72" fill="#fe00fe"/>

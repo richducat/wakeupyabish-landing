@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="1920" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11051f"/>
+      <stop offset="0.58" stop-color="#1b0e34"/>
+      <stop offset="1" stop-color="#050912"/>
+    </linearGradient>
+    <linearGradient id="pinkGlow" x1="0" y1="0" x2="1080" y2="1920" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00f3ff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#fff200" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="softBlur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="3" fill="rgba(255,255,255,0.04)"/>
+    </pattern>
+    <clipPath id="phoneClip">
+      <rect x="510" y="900" width="360" height="780" rx="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <circle cx="890" cy="180" r="220" fill="#00f3ff" opacity="0.2" filter="url(#softBlur)"/>
+  <circle cx="170" cy="1700" r="260" fill="#fff200" opacity="0.16" filter="url(#softBlur)"/>
+  <rect width="1080" height="1920" fill="url(#scanlines)" opacity="0.26"/>
+
+  <g opacity="0.26">
+    <path d="M0 1305.6000000000001 H1080" stroke="#fff200" stroke-width="2"/>
+    <path d="M0 1385.6000000000001 H1080" stroke="#fff200" stroke-width="1.5"/>
+    <path d="M0 1465.6000000000001 H1080" stroke="#fff200" stroke-width="1.2"/>
+    <path d="M0 1545.6000000000001 H1080" stroke="#fff200" stroke-width="1"/>
+    <path d="M140 1275.6000000000001 V1920" stroke="#fff200" stroke-width="1.2"/>
+    <path d="M300 1245.6000000000001 V1920" stroke="#fff200" stroke-width="1"/>
+    <path d="M520 1215.6000000000001 V1920" stroke="#fff200" stroke-width="1"/>
+    <path d="M760 1245.6000000000001 V1920" stroke="#fff200" stroke-width="1"/>
+    <path d="M940 1285.6000000000001 V1920" stroke="#fff200" stroke-width="1.2"/>
+  </g>
+
+  <rect x="54" y="54" width="972" height="1812" rx="34" stroke="url(#pinkGlow)" stroke-width="4"/>
+  <rect x="82" y="82" width="320" height="54" rx="12" fill="#fff200" opacity="0.14"/>
+  <text x="104" y="118" fill="#fff200" font-size="23" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="4">HOME SCREEN CREW</text>
+
+  <text x="92" y="196" fill="#ebfaff" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="4">WAKE UP YA BISH</text>
+  <text x="988" y="118" text-anchor="end" fill="#fe00fe" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">New in 1.2.2</text>
+  <text x="92" y="360" fill="#ffffff" font-size="92" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">The Mission Lives</text>
+  <text x="92" y="462" fill="#ffffff" font-size="92" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">On Home.</text>
+
+  <text x="92" y="608" fill="#d7c7f9" font-size="40" font-family="Arial, Helvetica, sans-serif" font-weight="600">Alarm status, habit progress,</text>
+  <text x="92" y="660" fill="#d7c7f9" font-size="40" font-family="Arial, Helvetica, sans-serif" font-weight="600">and quote widgets match the</text>
+  <text x="92" y="712" fill="#d7c7f9" font-size="40" font-family="Arial, Helvetica, sans-serif" font-weight="600">console.</text>
+
+  <g transform="rotate(3 690 1290)">
+    <rect x="496" y="886" width="388" height="808" rx="56" fill="#03060c" stroke="#fff200" stroke-width="5"/>
+    <rect x="510" y="900" width="360" height="780" rx="42" fill="#11051f" opacity="0.94"/>
+      <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="553.6" y="1150.5" width="272.8" height="74.39999999999999" rx="15.5" fill="#08101a" stroke="#fff200" stroke-width="6"/>
+      <text x="569.1" y="1178.4" fill="#fff200" font-size="18.599999999999998" font-weight="900" letter-spacing="2">ALARM STATUS</text>
+      <text x="569.1" y="1206.3" fill="#ffffff" font-size="21.700000000000003" font-weight="800">06:00 AM / ARMED</text>
+      <rect x="553.6" y="1246.6" width="130.2" height="130.2" rx="18.599999999999998" fill="#08101a" stroke="#fe00fe" stroke-width="6"/>
+      <circle cx="618.7" cy="1305.5" r="34.1" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.28"/>
+      <path d="M618.7 1271.4a34.1 34.1 0 0 1 24.8 55.8" fill="none" stroke="#fe00fe" stroke-width="10" stroke-linecap="round"/>
+      <text x="618.7" y="1314.8" text-anchor="middle" fill="#ffffff" font-size="20.150000000000002" font-weight="900">67</text>
+      <text x="618.7" y="1358.2" text-anchor="middle" fill="#fe00fe" font-size="13.95" font-weight="900">MISSION</text>
+      <rect x="705.5" y="1246.6" width="120.9" height="130.2" rx="18.599999999999998" fill="#08101a" stroke="#00f3ff" stroke-width="6"/>
+      <text x="724.1" y="1286.9" fill="#00f3ff" font-size="15.5" font-weight="900">QUOTE</text>
+      <path d="M724.1 1311.7h77.5M724.1 1333.4h62M724.1 1355.1h49.6" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <rect x="646" y="912" width="88" height="10" rx="5" fill="#05070b" opacity="0.92"/>
+  </g>
+
+  <rect x="82" y="1756" width="916" height="76" rx="18" fill="#00f3ff" opacity="0.16"/>
+  <text x="112" y="1804" fill="#ffffff" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="2">Wake Up Ya Bish</text>
+  <text x="968" y="1804" text-anchor="end" fill="#fff200" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Home Screen Widgets</text>
+</svg>

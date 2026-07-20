@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <radialGradient id="ctaGlow" cx="50%" cy="44%" r="70%">
+      <stop offset="0" stop-color="#00f3ff" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#150626" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#03060d"/>
+    </radialGradient>
+    <pattern id="ctaGrid" width="86" height="86" patternUnits="userSpaceOnUse">
+      <path d="M86 0H0V86" fill="none" stroke="#fff200" stroke-width="2" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#ctaGlow)"/>
+  <rect width="1080" height="1920" fill="url(#ctaGrid)"/>
+  <circle cx="820" cy="330" r="230" fill="none" stroke="#fff200" stroke-width="5" opacity="0.35"/>
+  <circle cx="820" cy="330" r="160" fill="none" stroke="#fe00fe" stroke-width="4" opacity="0.5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="696.8" y="204" width="246.4" height="67.2" rx="14" fill="#08101a" stroke="#fff200" stroke-width="6"/>
+      <text x="710.8" y="229.2" fill="#fff200" font-size="16.8" font-weight="900" letter-spacing="2">ALARM STATUS</text>
+      <text x="710.8" y="254.4" fill="#ffffff" font-size="19.6" font-weight="800">06:00 AM / ARMED</text>
+      <rect x="696.8" y="290.8" width="117.6" height="117.6" rx="16.8" fill="#08101a" stroke="#fe00fe" stroke-width="6"/>
+      <circle cx="755.6" cy="344" r="30.8" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.28"/>
+      <path d="M755.6 313.2a30.8 30.8 0 0 1 22.400000000000002 50.4" fill="none" stroke="#fe00fe" stroke-width="10" stroke-linecap="round"/>
+      <text x="755.6" y="352.4" text-anchor="middle" fill="#ffffff" font-size="18.2" font-weight="900">67</text>
+      <text x="755.6" y="391.6" text-anchor="middle" fill="#fe00fe" font-size="12.6" font-weight="900">MISSION</text>
+      <rect x="834" y="290.8" width="109.2" height="117.6" rx="16.8" fill="#08101a" stroke="#00f3ff" stroke-width="6"/>
+      <text x="850.8" y="327.2" fill="#00f3ff" font-size="14" font-weight="900">QUOTE</text>
+      <path d="M850.8 349.6h70M850.8 369.20000000000005h56M850.8 388.79999999999995h44.800000000000004" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+    </g>
+  <rect x="60" y="60" width="960" height="1800" rx="42" fill="none" stroke="#00f3ff" stroke-width="6"/>
+  <text x="90" y="135" fill="#fff200" font-size="26" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="5">FINAL COMMAND</text>
+  <text x="90" y="225" fill="#ffffff" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="4">WAKE UP YA BISH</text>
+  <text x="90" y="460" fill="#ffffff" font-size="118" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Download</text>
+  <text x="90" y="592" fill="#ffffff" font-size="118" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Wake Up Ya</text>
+  <text x="90" y="724" fill="#ffffff" font-size="118" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Bish</text>
+  <rect x="90" y="1110" width="900" height="8" rx="4" fill="#fe00fe"/>
+  <text x="90" y="1250" fill="#d7c7f9" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">The morning plan stays visible</text>
+  <text x="90" y="1308" fill="#d7c7f9" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">before the app is even opened.</text>
+  <rect x="90" y="1570" width="900" height="150" rx="28" fill="#00f3ff" opacity="0.2" stroke="#00f3ff" stroke-width="4"/>
+  <text x="540" y="1658" text-anchor="middle" fill="#ffffff" font-size="48" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="3">APP STORE / DOWNLOAD NOW</text>
+  <text x="90" y="1810" fill="#fff200" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="4">SCENE 03 / MISSION START</text>
+</svg>

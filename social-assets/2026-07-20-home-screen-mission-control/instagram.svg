@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1080" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11051f"/>
+      <stop offset="0.58" stop-color="#1b0e34"/>
+      <stop offset="1" stop-color="#050912"/>
+    </linearGradient>
+    <linearGradient id="pinkGlow" x1="0" y1="0" x2="1080" y2="1350" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00f3ff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#fff200" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="softBlur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="3" fill="rgba(255,255,255,0.04)"/>
+    </pattern>
+    <clipPath id="phoneClip">
+      <rect x="640" y="330" width="306" height="662" rx="42"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <circle cx="890" cy="180" r="220" fill="#00f3ff" opacity="0.2" filter="url(#softBlur)"/>
+  <circle cx="170" cy="1130" r="260" fill="#fff200" opacity="0.16" filter="url(#softBlur)"/>
+  <rect width="1080" height="1350" fill="url(#scanlines)" opacity="0.26"/>
+
+  <g opacity="0.26">
+    <path d="M0 918.0000000000001 H1080" stroke="#fff200" stroke-width="2"/>
+    <path d="M0 998.0000000000001 H1080" stroke="#fff200" stroke-width="1.5"/>
+    <path d="M0 1078 H1080" stroke="#fff200" stroke-width="1.2"/>
+    <path d="M0 1158 H1080" stroke="#fff200" stroke-width="1"/>
+    <path d="M140 888.0000000000001 V1350" stroke="#fff200" stroke-width="1.2"/>
+    <path d="M300 858.0000000000001 V1350" stroke="#fff200" stroke-width="1"/>
+    <path d="M520 828.0000000000001 V1350" stroke="#fff200" stroke-width="1"/>
+    <path d="M760 858.0000000000001 V1350" stroke="#fff200" stroke-width="1"/>
+    <path d="M940 898.0000000000001 V1350" stroke="#fff200" stroke-width="1.2"/>
+  </g>
+
+  <rect x="54" y="54" width="972" height="1242" rx="34" stroke="url(#pinkGlow)" stroke-width="4"/>
+  <rect x="82" y="82" width="320" height="54" rx="12" fill="#fff200" opacity="0.14"/>
+  <text x="104" y="118" fill="#fff200" font-size="23" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="4">HOME SCREEN CREW</text>
+
+  <text x="92" y="196" fill="#ebfaff" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="4">WAKE UP YA BISH</text>
+  <text x="988" y="118" text-anchor="end" fill="#fe00fe" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">New in 1.2.2</text>
+  <text x="92" y="390" fill="#ffffff" font-size="78" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">The</text>
+  <text x="92" y="480" fill="#ffffff" font-size="78" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Mission</text>
+  <text x="92" y="570" fill="#ffffff" font-size="78" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Lives On</text>
+  <text x="92" y="660" fill="#ffffff" font-size="78" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900">Home.</text>
+
+  <text x="92" y="794" fill="#d7c7f9" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="600">Alarm status, habit</text>
+  <text x="92" y="842" fill="#d7c7f9" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="600">progress, and quote</text>
+  <text x="92" y="890" fill="#d7c7f9" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="600">widgets match the</text>
+  <text x="92" y="938" fill="#d7c7f9" font-size="36" font-family="Arial, Helvetica, sans-serif" font-weight="600">console.</text>
+
+  <g transform="rotate(4 793 661)">
+    <rect x="626" y="316" width="334" height="690" rx="56" fill="#03060c" stroke="#fff200" stroke-width="5"/>
+    <rect x="640" y="330" width="306" height="662" rx="42" fill="#11051f" opacity="0.94"/>
+      <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="683" y="548.5" width="220" height="60" rx="12.5" fill="#08101a" stroke="#fff200" stroke-width="6"/>
+      <text x="695.5" y="571" fill="#fff200" font-size="15" font-weight="900" letter-spacing="2">ALARM STATUS</text>
+      <text x="695.5" y="593.5" fill="#ffffff" font-size="17.5" font-weight="800">06:00 AM / ARMED</text>
+      <rect x="683" y="626" width="105" height="105" rx="15" fill="#08101a" stroke="#fe00fe" stroke-width="6"/>
+      <circle cx="735.5" cy="673.5" r="27.5" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.28"/>
+      <path d="M735.5 646a27.5 27.5 0 0 1 20 45" fill="none" stroke="#fe00fe" stroke-width="10" stroke-linecap="round"/>
+      <text x="735.5" y="681" text-anchor="middle" fill="#ffffff" font-size="16.25" font-weight="900">67</text>
+      <text x="735.5" y="716" text-anchor="middle" fill="#fe00fe" font-size="11.25" font-weight="900">MISSION</text>
+      <rect x="805.5" y="626" width="97.5" height="105" rx="15" fill="#08101a" stroke="#00f3ff" stroke-width="6"/>
+      <text x="820.5" y="658.5" fill="#00f3ff" font-size="12.5" font-weight="900">QUOTE</text>
+      <path d="M820.5 678.5h62.5M820.5 696h50M820.5 713.5h40" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <rect x="749" y="342" width="88" height="10" rx="5" fill="#05070b" opacity="0.92"/>
+  </g>
+
+  <rect x="82" y="1186" width="916" height="76" rx="18" fill="#00f3ff" opacity="0.16"/>
+  <text x="112" y="1234" fill="#ffffff" font-size="30" font-family="Arial, Helvetica, sans-serif" font-weight="900" letter-spacing="2">DOWNLOAD THE APP</text>
+  <text x="968" y="1234" text-anchor="end" fill="#fff200" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">Home Screen Widgets</text>
+</svg>
